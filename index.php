@@ -16,7 +16,7 @@
          <div id="container">
          			<div id="left-nav">
                     <ul>
-                       <li><a href="#.php">Home</a></li>
+                       <li><a href="index.php">Home</a></li>
                        <li><a href="#.php">Register Student</a></li>
                        <li><a href="#.php">View Student Detail</a></li>
                        <li><a href="#.php">Student Login</a></li>
